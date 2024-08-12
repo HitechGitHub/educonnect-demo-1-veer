@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main >
       <div className="overflow-hidden">
-      
+      <div className="hidden">Hello</div>
       {/* <hr className='h-[3px] mt-32 bg-slate-800 border-3 border-slate-800 mb-5' /> */}
         <section className="hero relative mt-32 -z-50">
             <div className="hero flex relative justify-center items-center">
