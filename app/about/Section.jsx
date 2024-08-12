@@ -3,6 +3,7 @@ import React from 'react'
 const SectionAbout = () => {
   return (
     <div className="mt-4">
+      <div className='hidden'>hello</div>
       <div className="flex flex-col gap-12 justify-evenly lg:flex-row items-center ">
         <div className="card flex flex-col gap-3 items-center">
           <h1 className="text-2xl text-center font-bold uppercase text-slate-900 dark:text-white">veeraragavan M. Nadar</h1>
