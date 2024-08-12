@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+body{  
+  @apply bg-white dark:bg-slate-700;
+}
+
+.op{
+  @apply transition-all md:hover:scale-105 duration-200 opacity-40 md:hover:opacity-90
+}
+
+.imp{
+  @apply transition-all duration-200 hover:text-green-500;
+}
+
+.highlight{
+  @apply bg-[#4cd548ba] py-[5px] md:hover:scale-125 text-black px-2;
+}
+@tailwind utilities;

@@ -1,0 +1,6 @@
+.nav{
+    background: rgba(255, 255, 255, 0.01); /* Semi-transparent background */
+      backdrop-filter: blur(30px); /* Apply blur effect */
+      -webkit-backdrop-filter: blur(30px); /* Safari support */
+      /* border-bottom: 1px solid rgba(255, 255, 255, 0.8); */   
+}
